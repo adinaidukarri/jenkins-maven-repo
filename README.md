@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Springdemo — Spring Boot Application with Authentication & CI/CD
 
 ## Overview
@@ -359,3 +360,6 @@ This project is licensed under the MIT License.
 - Spring Boot Team
 - Jenkins Community
 - Bootstrap Team
+=======
+# jenkins-maven-repo
+>>>>>>> 6439ee62ce4fc3f8305f735f1b52850e3d27d8de
